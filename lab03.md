@@ -39,4 +39,4 @@ cv::Mat autocontrast_rgb(const cv::Mat& img, const double q_black, const double 
   * путь к входному изображению (серое или rgb)
   * квантиль черного
   * квантиль белого
-  * путь к входному изображению
+  * путь к выходному изображению
