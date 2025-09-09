@@ -1,0 +1,2 @@
+add_executable(srgb2linrgb srgb2linrgb.md srgb2linrgb.cpp)
+target_link_libraries(srgb2linrgb semcv)
